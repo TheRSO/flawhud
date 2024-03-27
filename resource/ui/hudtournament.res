@@ -27,7 +27,7 @@
 
 		if_mvm
 		{
-			"ypos"						"0"
+			"ypos"				"-10"
 			"team1_player_base_y"		"66"
 			"team2_player_base_y"		"66"
 			"team2_player_delta_x"		"52"
