@@ -15,7 +15,7 @@
 
 		"if_mvm"
 		{
-			"ypos"		"-13"
+			"ypos"		"1"
 		}
 	}
 
@@ -35,7 +35,7 @@
 
 		"if_mvm"
 		{
-			"ypos"		"0"
+			"ypos"		"15"
 			"wide"		"24"
 			"tall"		"24"
 		}
