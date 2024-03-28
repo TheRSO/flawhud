@@ -2260,8 +2260,8 @@
 			"enabled"			"1"
 
 			"pin_to_sibling"		"Damage"
-			"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+			"pin_corner_to_sibling"		"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"		"PIN_TOPRIGHT"
 
 			if_mvm
 			{
