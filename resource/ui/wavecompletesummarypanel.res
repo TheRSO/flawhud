@@ -25,7 +25,7 @@
 		"ControlName"				"EditablePanel"
 		"fieldName"					"WaveCompleteContainer"
 		"xpos"						"0"
-		"ypos"						"0"
+		"ypos"						"8"
 		"wide"						"250"
 		"tall"						"15"
 		"visible"					"1"
