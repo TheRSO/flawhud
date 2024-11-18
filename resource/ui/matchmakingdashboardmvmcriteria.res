@@ -32,7 +32,7 @@
 	{
 		"ControlName"			"CExButton"
 		"fieldName"				"BackButton"
-		"xpos"					"6"
+		"xpos"					"5"
 		"ypos"					"rs1-17"
 		"zpos"					"100"
 		"wide"					"90"
@@ -62,10 +62,10 @@
 	{
 		"ControlName"			"CExButton"
 		"fieldName"				"MannUpQueueButton"
-		"xpos"					"106"
+		"xpos"					"105"
 		"ypos"					"rs1-17"
 		"zpos"					"100"
-		"wide"					"150"
+		"wide"					"152"
 		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"3"
@@ -96,7 +96,7 @@
 		"xpos"					"5"
 		"ypos"					"rs1-17"
 		"zpos"					"100"
-		"wide"					"264"
+		"wide"					"256"
 		"tall"					"20"
 		"autoResize"			"0"
 		"pinCorner"				"3"
@@ -155,7 +155,7 @@
 	{
 		"ControlName"		"CheckButton"
 		"fieldName"			"JoinLateCheckButton"
-		"xpos"				"rs1-10"
+		"xpos"				"rs1-15"
 		"ypos"				"rs1-17"
 		"zpos"				"50"
 		"wide"				"140"
@@ -169,7 +169,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"			"JoinLateLabel"
-		"xpos"				"rs1-10"
+		"xpos"				"rs1-15"
 		"ypos"				"rs1-17"
 		"zpos"				"50"
 		"wide"				"115"
