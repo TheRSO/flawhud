@@ -155,13 +155,14 @@
 		if_mvm
 		{
 			"font"				"FontRegular10"
-			"textAlignment"		"west"
-			"xpos"				"294"
-			"ypos"				"-245"
+			"textAlignment"			"west"
+			"xpos"				"c+242"
+			"ypos"				"345"
 			"zpos"				"11"
 			"wide"				"50"
 			"tall"				"20"
 			"fgcolor"			"DisguiseMenuIconBlue"
+			"pin_to_sibling"		""
 		}
 	}
 
