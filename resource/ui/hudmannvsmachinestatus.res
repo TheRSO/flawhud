@@ -1,11 +1,20 @@
 "Resource/UI/HudMannVsMachineStatus.res"
-{
+{	
 	"WaveStatusPanel"
 	{
 		"ControlName"		"CWaveStatusPanel"
 		"fieldName"			"WaveStatusPanel"
+		"wide"				"0"
+		"visible"			"0"
+		"enabled"			"0"
+	}
+	
+	"WaveStatusPanel2"
+	{
+		"ControlName"		"CWaveStatusPanel"
+		"fieldName"			"WaveStatusPanel2"
 		"xpos"				"c-300"
-		"ypos"				"0"
+		"ypos"				"-15"
 		"zpos"				"0"
 		"wide"				"600"
 		"tall"				"67"
@@ -30,17 +39,13 @@
 	{
 		"ControlName"		"CMvMBossStatusPanel"
 		"fieldName"			"BossStatusPanel"
-		"xpos"				"0"
-		"ypos"				"0"
+		"xpos"				"c-101"
+		"ypos"				"70"
 		"zpos"				"0"
 		"wide"				"200"
 		"tall"				"100"
 		"visible"			"1"
 		"enabled"			"1"
-
-		"pin_to_sibling"			"WaveStatusPanel"
-		"pin_corner_to_sibling"		"4"
-		"pin_to_sibling_corner"		"6"
 	}
 
 	"InWorldCurrencyPanel"

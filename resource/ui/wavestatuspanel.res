@@ -27,14 +27,14 @@
 		"fieldName"				"WaveCountLabel"
 		"font"					"FontBold12"
 		"fgcolor"				"TanLight"
-		"xpos"					"136"
-		"ypos"					"5"
+		"xpos"					"67"
+		"ypos"					"16"
 		"zpos"					"3"
 		"wide"					"200"
 		"tall"					"15"
 		"visible"				"1"
 		"enabled"				"1"
-		"textAlignment"			"center"
+		"textAlignment"			"east"
 		"labelText"				"%wave_count%"
 	}
 
@@ -51,7 +51,7 @@
 		"tall"					"15"
 		"visible"				"1"
 		"enabled"				"1"
-		"textAlignment"			"center"
+		"textAlignment"			"east"
 		"labelText"				"%wave_count%"
 		"pin_to_sibling"		"WaveCountLabel"
 	}
@@ -68,7 +68,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"scaleImage"			"1"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 		"bgcolor_override"		"TanLight"
 
 		if_verbose
@@ -103,8 +103,8 @@
 	{
 		"ControlName"			"ScalableImagePanel"
 		"fieldName"				"ProgressBar"
-		"xpos"					"277"
-		"ypos"					"7"
+		"xpos"					"274"
+		"ypos"					"18"
 		"zpos"					"3"
 		"wide"					"118"
 		"tall"					"9"
@@ -122,8 +122,8 @@
 	{
 		"ControlName"			"ScalableImagePanel"
 		"fieldName"				"ProgressBarBG"
-		"xpos"					"276"
-		"ypos"					"6"
+		"xpos"					"1"
+		"ypos"					"1"
 		"zpos"					"0"
 		"wide"					"120"
 		"tall"					"12"
@@ -135,5 +135,7 @@
 		"src_corner_width"		"22"
 		"draw_corner_width"		"5"
 		"draw_corner_height"	"5"
+		
+		"pin_to_sibling"		"ProgressBar"
 	}
 }
